@@ -17,6 +17,7 @@ Bem-vindo à documentação da Pokedex, um projeto React.js que utiliza a PokeAP
 8. [Modal](#modal)
 9. [Estilos](#estilos)
 10. [Contribuindo](#contribuindo)
+11. [Licença](#licença)
 
 ## Introdução
 
@@ -101,6 +102,10 @@ Os estilos globais estão localizados em src/styles. Personalize os estilos conf
 ## Contribuindo
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
+
+## Licença
+
+Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
 
 
 ## Espero que você aproveite a Pokedex! Se tiver dúvidas ou sugestões, entre em contato.
