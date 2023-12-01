@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Documentação da Pokedex em React.js
 
 Bem-vindo à documentação da Pokedex, um projeto React.js que utiliza a PokeAPI para fornecer informações sobre Pokémon. Esta aplicação permite que os usuários pesquisem Pokémon por nome ou número de ID, favoritem seus Pokémon favoritos e vejam detalhes adicionais por meio de um modal component.
@@ -109,3 +110,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 <img src="https://raw.githubusercontent.com/luizcarmoo/pokedex_react/main/public/to_readme/pokedex-react-pokeAPI.jpg" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+=======
+# pokedex-with-reactjs
+Pokedex is a React.js application that uses the PokeAPI to obtain information about Pokémon. Users can search for Pokémon by name or ID numbers, favorite their favorite Pokémon, and explore additional details through a modal window.
+>>>>>>> 92ba295cc1a21d9386167a71a48732523e8e593a
