@@ -109,7 +109,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Hope you enjoy the Pokedex! If you have questions or suggestions, get in touch.
 
---
+---
 
 # Documentação da Pokedex em React.js em PT-BR 🇧🇷
 
