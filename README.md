@@ -106,6 +106,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## Espero que você aproveite a Pokedex! Se tiver dúvidas ou sugestões, entre em contato.
 
 
-<img src="https://raw.githubusercontent.com/luizcarmoo/pokedex_react/main/public/to_readme/pokedex-react-pokeAPI.jpg" />
+<img src="https://raw.githubusercontent.com/luizcarmoo/pokedex-with-reactjs/main/public/to_readme/pokedex-react-pokeAPI.jpg" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
